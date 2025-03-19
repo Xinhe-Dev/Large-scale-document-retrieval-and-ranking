@@ -4,6 +4,8 @@ Don't you have thounds and thounds text files you want search something in it. L
 
 Design based on Vector Space Model (VSM)
 
+I have provided test set from CISI-individual docuement, it contain over 1460 text files for testing, all result been checked validated.
+
 1. Information retrieval system:
 This vector space model can be applied to search engines, e-commerce product search, enterprise document management and other scenarios to help quickly locate documents or product information related to the query.
 2. Large-scale text mining and analysis:

@@ -2,6 +2,8 @@
 
 Don't you have thounds and thounds text files you want search something in it. Let's this algorithm help you, there wasn't UI, but can directly tell you the thing you want seach is in which file / or which file may related with your search?
 
+import this juipter on either online plateform (colab) or VScode is working fine
+
 Design based on Vector Space Model (VSM)
 
 I have provided test set from CISI-individual docuement, it contain over 1460 text files for testing, all result been checked validated.
